@@ -8,7 +8,7 @@ Original file is located at
 """
 
 import streamlit as st
-st.set_page_config(page_title="Iris Dashboard App", layout="centered")
+st.set_page_config(page_title="Hello World", layout="centered")
 
 st.tittle ("Hello Word!")
 st.write("This is simple streamlit app deployed from github.")
