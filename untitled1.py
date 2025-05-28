@@ -11,3 +11,9 @@ import streamlit as st
 
 st.tittle ("Hello Word!")
 st.write("This is simple streamlit app deployed from github.")
+
+import streamlit as st
+import pandas as pd
+
+st.set_page_config(page_title="Iris Dashboard App", layout="centered")
+st.sidebar.header("Dashboard")
